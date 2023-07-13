@@ -1,0 +1,14 @@
+{
+  "name": "otus-2023-06-qa-js-meshkanov",
+  "version": "1.0.0",
+  "description": "Создано в рамках курса OTUS JavaScript QA Engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
